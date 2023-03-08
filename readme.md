@@ -7,3 +7,10 @@ The Module works by overwriting the allowed Feats in the Archetype section of a 
 This is done automatically any time a player character is updated.
 
 While this allows placing Skill feats in the Archetype slots of a character sheet it does not change the default filter options when searching for archetype feats.
+
+
+# Installation
+
+The module can be installed using the following manifest link:
+
+`https://github.com/Lorgres/SkillAsArchetype/releases/latest/download/module.json`
