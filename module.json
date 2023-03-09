@@ -1,12 +1,13 @@
 {
-  "name": "pf2e-free-archetype-skill-feats",
-  "title": "PF2e Free Archetype Skill feats",
+  "name": "pf2e-skill-as-archetype",
+  "title": "PF2e Skill feats as Free Archetype feats",
   "author": "Lorgres",
-  "description": "Allows Skill feats to be put into feat slots from the Free Archetype variant rule.",
-  "id": "pf2e-free-archetype-skill-feats",
+  "description": "Allows Skill feats to be put into feat slots created by the Free Archetype variant rule.",
+  "id": "pf2e-skill-feats-as-free-archetype-feats",
   "authors": [
     {
-      "name": "Lorgres"
+      "name": "Lorgres",
+      "url": "https://github.com/Lorgres"
     }
   ],
   "minimumCoreVersion": "0.8.0",

@@ -1,6 +1,6 @@
 
 class SkillAsFreeArchetype {
-    static ID = 'pf2e-free-archetype-skill-feats';
+    static ID = 'pf2e-skill-feats-as-free-archetype-feats';
 
     /** Adds Skill feats to the list of allowed Free Archetype feats.
      * 
