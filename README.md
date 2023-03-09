@@ -13,4 +13,4 @@ While this allows placing Skill feats in the Archetype slots of a character shee
 
 The module can be installed using the following manifest link:
 
-`https://github.com/Lorgres/SkillAsArchetype/releases/latest/download/module.json`
+`https://github.com/Lorgres/pf2e-skill-as-archetype/releases/latest/download/module.json`
